@@ -75,9 +75,7 @@ ros2_ws5/
         │   └── mapping_rviz2.launch.py
         ├── lidar_mapping/
         │   ├── exploration_node.py
-        │   ├── mapping_node.py
-        │   ├── path_planning_node.py
-        │   └── path_planing.py
+        │   └── mapping_node.py
         ├── package.xml
         └── setup.py
 ```
