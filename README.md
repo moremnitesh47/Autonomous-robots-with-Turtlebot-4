@@ -51,7 +51,7 @@ This repository implements autonomous exploration and mapping using **ROS 2**, a
 - The robot continuously selects the **nearest reachable frontier centroid**.
 - If a frontier becomes unreachable (due to obstacles), it is skipped.
 
-### 🔹 A\* Path Planning (Custom Implementation)
+### 🔹 Custom A\* Path Planning (Cost + clearnace + Penalty)
 
 This project uses a **custom implementation of the A\*** algorithm to generate a path on a grid-based map. Unlike standard A\*, this version is optimized for robot navigation in dynamic and obstacle-rich environments.
 
