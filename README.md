@@ -1,14 +1,13 @@
+ 
+
+# 🗭 Autonomous Exploration and Mapping using ROS 2 with Turtlebot4
+
 
 
 <p align="center">
   <img src="Maples1.png" alt="Path Smoothing" width="500"/>
 </p>
 
-
-
-
-
-# 🗭 Autonomous Exploration and Mapping using ROS 2 with Turtlebot4
 
 ---
 Authors- Nitesh morem.
@@ -193,3 +192,4 @@ This will start:
 
 ## 🙌 Acknowledgments
 Thanks to the open-source community, ROS 2, and the TurtleBot simulation environments.
+Also grateful for the insights from Prof. Dr. -Ing. Thomas Nierhoff Lectures OTH Amberg.
