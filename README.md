@@ -1,4 +1,17 @@
-# 🗭 Autonomous Exploration and Mapping using ROS 2
+# 🗭 Autonomous Exploration and Mapping using ROS 2 with Turtlebot4
+
+---
+Authors- Nitesh morem.
+
+ Ostbayerische Technische Hochschule Amberg-Weiden.
+ 
+ Department of Electrical Engineering, Media and Computer Science.
+ 
+ Supervisor - Prof. Dr. -Ing. Thomas Nierhoff
+
+
+---
+
 
 This repository implements autonomous exploration and mapping using **ROS 2**, a simulated TurtleBot4 robot, and custom navigation logic. The solution is built completely **without Nav2**, using your own:
 
