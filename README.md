@@ -22,7 +22,7 @@ Authors- Nitesh morem.
 ---
 
 
-This repository implements autonomous exploration and mapping using **ROS 2**, a simulated TurtleBot4 robot, and custom navigation logic. The solution is built completely **without Nav2**, using our own:
+This repository implements autonomous exploration and mapping using **ROS 2**, a simulated TurtleBot4 robot, and custom navigation logic. The solution is built completely **without Nav2**:
 
 - A\* Path Planning
 - Frontier Detection and Clustering
