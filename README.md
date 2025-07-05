@@ -1,6 +1,6 @@
  
 
-# 🗭 Autonomous Exploration and Mapping using ROS 2 with Turtlebot4
+# 🏎️ Autonomous Exploration and Mapping using ROS 2 with Turtlebot4
 
 
 
